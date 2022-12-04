@@ -20,7 +20,7 @@ import Feature4BgImg from "../src/assets/img/features/feature4_bg.png";
 
 export const navigationData = [
   {
-    name: "Deliver",
+    name: "Titip",
     href: "#",
   },
   {
@@ -28,11 +28,11 @@ export const navigationData = [
     href: "#",
   },
   {
-    name: "Features",
+    name: "Track Order",
     href: "#",
   },
   {
-    name: "Signup",
+    name: "Promo",
     href: "#",
   },
 ];
@@ -41,7 +41,7 @@ export const heroData = {
   title: `TITIP YUK!`,
   subtitle:
     "Titip produk apapun dari Amerika, Inggris, China, Hong Kong & Singapura.",
-  btnText: "Get Started",
+  btnText: "Signup",
   image: HeroImage,
 };
 
